@@ -1,9 +1,8 @@
 # PIX_API
 
-Description
 The Pix QR Code Generator API allows you to generate QR Codes compatible with the instant payment system Pix, from the Central Bank of Brazil. This API is ideal for integrating QR Code generation functionality into payment systems, e-commerce, banking apps, and more.
 
-Features
+Features:
 Customize parameters such as amount, Pix key, description, and more.
 API Documentation
 Endpoints
